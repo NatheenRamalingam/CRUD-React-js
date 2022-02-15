@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "name": "R.Ramalingam",
+      "email": "natheenram@gmail.com",
+      "mobile": "9442275133",
+      "address": "karur",
+      "id": 2
+    },
+    {
+      "name": "R.Dharani",
+      "email": "dharani@gmail.com",
+      "mobile": "9876543210",
+      "address": "Karaipalayam",
+      "id": 3
+    },
+    {
+      "name": "R.Meenakshi",
+      "email": "meenakshi@gmail.com",
+      "mobile": "9487475133",
+      "address": "Karaipalayam",
+      "id": 4
+    },
+    {
+      "name": "Scooby",
+      "email": "scooby@gmail.com",
+      "mobile": "9876543210",
+      "address": "karur",
+      "id": 5
+    },
+    {
+      "name": "Kilees",
+      "email": "kilees@gmail.com",
+      "mobile": "9876543210",
+      "address": "Karaipalayam",
+      "id": 6
+    },
+    {
+      "name": "R.Natheen",
+      "email": "natheenrls@gmail.com",
+      "mobile": "8778151260",
+      "address": "Bengaluru",
+      "id": 7
+    }
+  ],
+  "course": [
+    {
+      "title": "HTML",
+      "fee": "2500",
+      "duration": "1 month",
+      "id": 1
+    },
+    {
+      "title": "CSS3",
+      "fee": "2500",
+      "duration": "1 month",
+      "id": 2
+    },
+    {
+      "title": "Javascript",
+      "fee": "3000",
+      "duration": "2 months",
+      "id": 3
+    },
+    {
+      "title": "React JS",
+      "fee": "15000",
+      "duration": "3 Months",
+      "id": 4
+    }
+  ]
+}
